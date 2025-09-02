@@ -24,7 +24,7 @@ urls:
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: Joakim_profile.jpg
+author_logo: /authors/Joakim_profile.jpg
 author: Joakim Askeland
 author_bio: Hi, my name is Joakim. I am a programmer with a bachelors in Gamification and Simulations with focus on C++ and C#.
 author_email: "joakim.askeland@gmail.com"
