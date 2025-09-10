@@ -1,5 +1,5 @@
-title: devlopr
-subtitle: A Portfolio Jekyll Theme Built for Developers
+title: Joakim Askeland
+subtitle: C++, C# programmer looking for work
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
@@ -12,25 +12,25 @@ urls:
       url: /
     - text: About
       url: /about
-    - text: Blog
-      url: /blog
+    - text: CV
+      url: /cv
     - text: Gallery
       url: /gallery
-    - text: Shop
-      url : /shop
+#    - text: Shop
+#      url : /shop
     - text: Contact
       url : /contact
 
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
-author_location: India
-author_website_url: "https://sujaykundu.com"
-typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
+author_logo: /authors/Joakim_profile.jpg
+author: Joakim Askeland
+author_bio: Hi, my name is Joakim. I am a programmer with a bachelors in Gamification and Simulations with focus on C++ and C#.
+author_email: "joakim.askeland@gmail.com"
+author_location: Norway
+# author_website_url: "https://sujaykundu.com"
+typewrite-text: Programmer | Father
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
@@ -40,21 +40,21 @@ author_work_experiences:
               company_url: https://google.com
               designation: Software Engineer
               description: Worked on various Google Products
-              visibility: true
+              visibility: false
             - company_name: Microsoft
               company_logo: microsoft.png
               company_url: https://microsoft.com
               designation: Azure Developer
               description: Worked on various Azure Cloud Products
-              visibility: true
+              visibility: false
 
 # Education
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+              - college_logo: inn-eng-vert-green-rgb@2x.png
+                college_name: INN
+                college_url: https://www.inn.no/
+                college_degree: Computer Engineer / Game Developer
+                description: Bachelor in Gamification and Simulation
                 visibility: true
 
 # Projects
@@ -63,32 +63,32 @@ author_project_details:
                 project_title: Gamers Hub
                 project_description: A Platform built for Gamers and Game Devs
                 project_url: https://gamershub.in
-                visibility: true
+                visibility: false
               - project_thumbnail: hack4r.PNG
                 project_title: Hack4r
                 project_description: A Platform built for Hackers and Penetration Testers
                 project_url: https://hack4r.com
-                visibility: true
+                visibility: false
 
 # social links
-twitter_username: johndoe
-github_username:  sujaykundu777
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+# twitter_username: 
+github_username:  JoakimAskeland
+# instagram_username: 
+# facebook_username: johndoe
+# linkedin_username: johndoe
+# behance_username: johndoe
+# medium_username: johndoe
+# telegram_username: johndoe
+# dribbble_username: johndoe
+# flickr_username: johndoe
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
 # disqus_shortname: sujay-kundu
-hyvor_talk_website_id: 476
+# hyvor_talk_website_id: 476
 
 # wakatime username (coding activity)
-wakatime_username: sujaykundu777
+# wakatime_username: sujaykundu777
 
 # mailchimp embedded form url (newsletter):
 mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
@@ -163,17 +163,20 @@ plugins:
   - jekyll-gist
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-admin
+  - jekyll-feed
+
+  # jekyll admin is causing issues with github pages, so it's disabled by default
+  # - jekyll-admin 
 
 # Jekyll Admin Config
-jekyll_admin:
+# jekyll_admin:
   # hidden_links:
   #   - posts
   #   - pages
   #   - staticfiles
   #   - datafiles
   #   - configuration
-  homepage: "posts"
+  # homepage: "posts"
 
 
 # Exclude from processing.
@@ -188,6 +191,10 @@ jekyll_admin:
 # none - For no default
 # gh-pages - For Github Pages
 # firebase - For Firebase Hosting
+
+sass:
+  sass_dir: _sass
+  style: compressed
 
 exclude:
   - .sass-cache/
