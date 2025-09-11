@@ -55,6 +55,10 @@ author_education_details:
                 college_url: https://www.inn.no/
                 college_degree: Computer Engineer / Game Developer
                 description: Bachelor in Gamification and Simulation
+                selected_courses: Algorithms and Data Structures, Databases and Networks, Games
+                                  and Systems Thinking, Gamification, 3D Programming, Game
+                                  Engine Architecture, Visualisation and Simulation, Machine
+                                  Learning and Artificial Intelligence in Games.
                 visibility: true
 
 # Projects
