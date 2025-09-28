@@ -1,13 +1,20 @@
 ---
-layout: compress
+layout: null
 ---
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-<script>
-  $(document).ready(function() {
-    $("#typewriteText").typewrite({
-      actions: [{ type: "{{site.typewrite-text}}" }]
-    });
-  });
-</script>
-    
-{%- include hero.html -%}
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+
+    <main>
+      {%- include hero.html -%}
+    </main>
+
+    {%- include footer.html -%}
+
+  </body>
+</html>
