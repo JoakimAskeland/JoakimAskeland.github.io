@@ -26,7 +26,7 @@ urls:
 
 author_logo: /authors/Joakim_profile.jpg
 author: Joakim Askeland
-author_bio: Hi, my name is Joakim. I am a programmer with a bachelors in Gamification and Simulations with focus on C++ and C#.
+author_bio: I am a trained game developer with a focus on programming, computer science, game development, game design, and creative problem-solving in teams. Flexible and eager to learn. Possess strong communication skills. Experienced in working both independently and in teams, and collaborate well with colleagues. Precise and systematic, perform well under pressure, and quickly acquire new knowledge.
 author_email: "joakim.askeland@gmail.com"
 author_location: Norway
 # author_website_url: "https://sujaykundu.com"
@@ -35,12 +35,12 @@ hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg.
 
 # Experiences
 author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
-              visibility: false
+            - company_name: SVVY
+              # company_logo: google.png
+              # company_url: https://google.com
+              designation: Technical Lead
+              description: "Leads the company's technical vision and is responsible for selecting a robust and scalable technology stack that supports strategic goals."
+              visibility: true
             - company_name: Microsoft
               company_logo: microsoft.png
               company_url: https://microsoft.com
