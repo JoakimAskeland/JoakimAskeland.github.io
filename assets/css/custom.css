@@ -2,3 +2,31 @@
 .main-content-area {
   padding-top: 3rem; 
 }
+
+/* Custom Button for GitHub */
+.btn-github {
+    color: #ffffff !important; /* White text */
+    background-color: #333333 !important; /* Dark Gray background */
+    border-color: #333333 !important;
+}
+
+/* Darker color when you hover over the GitHub button */
+.btn-github:hover {
+    color: #ffffff !important;
+    background-color: #1a1a1a !important; 
+    border-color: #1a1a1a !important;
+}
+
+/* Custom Button for LinkedIn */
+.btn-linkedin {
+    color: #ffffff !important; /* White text */
+    background-color: #0077B5 !important; /* Official LinkedIn Blue */
+    border-color: #0077B5 !important;
+}
+
+/* Darker color when you hover over the LinkedIn button */
+.btn-linkedin:hover {
+    color: #ffffff !important;
+    background-color: #005582 !important; 
+    border-color: #005582 !important;
+}
