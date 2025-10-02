@@ -4,97 +4,56 @@ title: Curriculum Vitae
 ---
 
 ## Joakim Askeland
-**Østli 5A, 2054 Mogreina** | **joakim.askeland@gmail.com** | **468 39 304**
+**Jessheim** | **joakim.askeland@gmail.com** | **+47 468 39 304**
+**GitHub:** [github.com/JoakimAskeland](https://github.com/JoakimAskeland) | **LinkedIn:** [linkedin.com/in/joakim-askeland](https://www.linkedin.com/in/joakim-askeland-596b86261/)
 
 ---
 
-### Key Qualifications
-* A trained game developer with a focus on programming, computer science, game development, game design, and creative problem-solving in teams.
-* Flexible, eager to learn, and possess strong communication skills.
-* Experienced in working both independently and in teams.
-* Precise, systematic, and perform well under pressure.
+### Work Experience
 
----
+**Technical Lead | SVVY AS**
+*2025 - Present*
+* Leads the company's technical vision and is responsible for selecting a robust and scalable technology stack.
+* Drives the process of transforming conceptual ideas into concrete, technical solutions and interactive products.
+* Currently developing the company's web portal, building upon the original Figma prototype.
 
-### IT Tools & Skills
-C++, C#, Unreal Engine, Unity, GitHub, Visual Studio, Blender, MySQL, MongoDB, Stella, Word, Excel, PowerPoint.
-
----
-
-### Experience
-
-**Service Employee | Sodexo Gardermoen**
-*May 2023 - Jul 2023 & Aug 2024 - Present*
-* Cleaned plane interiors, loaded equipment, and performed security checks at Oslo Airport. Hired as a summer substitute.
-
-**Prison Officer | Kriminalomsorgen Romerike Prison**
-*Jun 2021 - Feb 2023*
-* Performed administrative work regarding inmates' needs, guard duty, and environmental work in connection with rehabilitation.
-
-**Production Employee | Ferskvarehuset AS**
-*Feb 2021 - Jun 2021*
-* Responsible for handling fresh produce in line production.
-
-**Terminal Employee | Posten Norge AS**
-*Dec 2020*
-* Sorted mail according to delivery routes at Norway's main post terminal. Hired as extra help for the Christmas rush.
-
-**User Driven Personal Assistance | ΜΙΟ ΒΡPA AS / Assister meg AS**
-*Aug 2020 - Nov 2020*
-* Assisted with daily living activities including cleaning, cooking, care, driving, and socialising.
-
-**Service Employee | Sodexo Gardermoen**
-*Apr 2019 - Jul 2020*
-* Cleaned plane interiors, loaded equipment, and performed security checks at Oslo Airport.
-
-**Service Employee | Spar Husnes**
-*Sep 2018 - Aug 2019*
-* Responsible for closing the shop, handling parcels, product replenishment, and managing cash registers and game terminals.
+**Various Jobs**
+*2018 - 2025*
+* Previous roles include aircraft cleaner, prison officer, production employee, terminal worker, user-controlled personal assistant, and service employee.
+* Gained transferable skills in responsibility, shift work, routines, customer contact, and teamwork.
 
 ---
 
 ### Education
 
-**Inland Norway University of Applied Sciences**
-*Aug 2021 - Jun 2024*
-* Bachelor's in Game Technology and Simulation.
-* **Selected Courses:** Algorithms and Data Structures, Databases and Networks, Gamification, 3D Programming, Game Engine Architecture, Machine Learning and Artificial Intelligence in Games.
-* **Bachelor Project:** Gamification of Norsk Tipping's Lotto application, developed in Unity.
-
-**Kvinnherad Videregående Skole**
-*Aug 2018 - Jun 2019*
-* Secondary Education, Specialisation in General Studies, 3rd year.
-
-**Nayland College, New Zealand**
-*Aug 2017 - Jun 2018*
-* Exchange program, Specialisation in General Studies, STEM, 2nd year.
-
-**Kvinnherad Videregående Skole**
-*Aug 2016 - Jun 2017*
-* Secondary Education, Specialisation in General Studies, 1st year.
+**Inland Norway University of Applied Sciences (HINN)**
+*2021 - 2024*
+* **Bachelor's in Game Technology and Simulation**
+* **Internship and Bachelor's Thesis at Norsk Tipping (Oct. 2023 - May 2024):**
+    * Developed a complete lottery game prototype from scratch in Unity.
+    * Held main responsibility for front-end programming, UI implementation, and core game logic.
+    * Actively contributed to code reviews and debugging.
+    * Worked within a team using the company's established planning and collaboration rituals.
+    * **Technologies:** Unity, Visual Studio, Figma, Notion.
 
 ---
 
-### Other
+### Elected Positions
 
-**Elected Positions**
-* **Deputy Chairman of the Central Board, Student Organisation in Innlandet (2023 - 2024):** Responsible for administrative tasks, preparing agendas, managing budgets, and chairing meetings.
-* **President of the Student Parliament, Student Organisation in Innlandet (2022 - 2023):** Highest position in the student organisation's top governing body, serving as chair of meetings and liaison between parliament and the organisation.
+**Student Organisation in Innlandet**
+* **Deputy Chairman of the Central Board (2023-2024)** & **President of the Student Parliament (2022-2023)**
+* Led work in a major student organization, focusing on improving structure and collaboration.
 
-**Languages**
-* **Norwegian:** Native.
-* **English:** Full professional proficiency.
-* **Swedish:** Professional working proficiency.
+---
 
-**Driver's Licenses**
-* Car and Motorcycle (A2 - medium-sized motorcycles).
+### Skills
+
+* **Programming Languages:** C++, C#
+* **Game Engines:** Unreal Engine, Unity
+* **Tools:** Git, Visual Studio, Figma
+* **Languages:** Norwegian (Native), English (Full Professional Proficiency)
 
 ---
 
 ### References
-
-**Bård Ræstad**
-*Higher Executive Officer at Innlandet University*
-* **E-mail:** bard.rastad@inn.no
-* **Phone:** +47 62430138
-* **Mobile:** +47 94167305
+Available upon request.
