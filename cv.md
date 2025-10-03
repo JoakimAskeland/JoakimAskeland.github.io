@@ -4,7 +4,7 @@ title: Curriculum Vitae
 ---
 
 ## Joakim Askeland
-**Jessheim** | **joakim.askeland@gmail.com** | **+47 468 39 304**
+**Jessheim** | **joakim.askeland@gmail.com**  
 **GitHub:** [github.com/JoakimAskeland](https://github.com/JoakimAskeland) | **LinkedIn:** [linkedin.com/in/joakim-askeland](https://www.linkedin.com/in/joakim-askeland-596b86261/)
 
 ---
